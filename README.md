@@ -57,7 +57,7 @@ Interactive data visualization dashboard built with Streamlit & Plotly.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamaT-rgb&theme=algolia&v=1" width="800px" />
 
 <!-- Row 3: Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaT-rgb&layout=compact&theme=algolia&v=1" width="500px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaT-rgb&layout=compact&theme=algolia&v=1" width="800px"/>
 
 </div>
 
