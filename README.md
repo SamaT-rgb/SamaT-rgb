@@ -45,24 +45,20 @@ Interactive data visualization dashboard built with Streamlit & Plotly.
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SamaT-rgb&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&v=1" />
+<!-- Row 1: Stats + Streak (side-by-side) -->
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SamaT-rgb&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&v=1" width="395px"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamaT-rgb&theme=algolia&v=1" width="395px"/></td>
+  </tr>
+</table>
 
-<!-- GitHub Streak -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamaT-rgb&theme=algolia&v=1" />
+<!-- Row 2: Summary card full width -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamaT-rgb&theme=algolia&v=1" width="800px" />
 
-<br><br>
-
-<!-- Top Languages -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaT-rgb&layout=compact&theme=algolia&v=1" />
-
-<!-- Profile Summary -->
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamaT-rgb&theme=algolia&v=1" />
-
-<!-- Optional Trophy Card -->
-<!-- <img width="96%" src="https://github-profile-trophy.vercel.app/?username=SamaT-rgb&theme=algolia&row=1&margin-w=10&margin-h=15" /> -->
+<!-- Row 3: Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaT-rgb&layout=compact&theme=algolia&v=1" width="500px"/>
 
 </div>
 
----
 
