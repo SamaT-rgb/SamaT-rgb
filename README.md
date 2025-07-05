@@ -54,7 +54,7 @@ Interactive data visualization dashboard built with Streamlit & Plotly.
 </table>
 
 <!-- Row 2: Summary card full width -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamaT-rgb&theme=algolia&v=1" width="900px" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamaT-rgb&theme=algolia&v=1" width="850px" />
 
 
 </div>
