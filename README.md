@@ -48,7 +48,8 @@ Interactive data visualization dashboard built with Streamlit & Plotly.
 <!-- Row 1: Stats + Streak (side-by-side) -->
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SamaT-rgb&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&v=1" width="395px"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SamaT-rgb&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&v=3" width="395px"/>
+</td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamaT-rgb&theme=algolia&v=1" width="395px"/></td>
   </tr>
 </table>
