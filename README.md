@@ -46,13 +46,13 @@ Interactive data visualization dashboard built with Streamlit & Plotly.
 <!-- Row 1: Stats + Streak (side-by-side) -->
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SamaT-rgb&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&v=3" width="395px"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamaT-rgb&theme=algolia&v=1" width="395px"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SamaT-rgb&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&v=3" width="395px" alt="GitHub Stats"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamaT-rgb&theme=algolia&v=1" width="395px" alt="GitHub Streak"/></td>
   </tr>
 </table>
 
 <!-- Row 2: Summary card full width -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamaT-rgb&theme=algolia&v=1" width="850px" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamaT-rgb&theme=algolia&v=1" width="850px" alt="GitHub Summary"/>
 
 </div>
 
@@ -62,6 +62,6 @@ Interactive data visualization dashboard built with Streamlit & Plotly.
 
 <div align="center">
 
-📄 [Resume](https://drive.google.com/[https://drive.google.com/file/d/1DY_VcoBysJvJLuPw4MS-3CUaMk5MMMjM/view?usp=drive_link]) &nbsp;&nbsp;&nbsp;🎓 [Certificates](https://drive.google.com/[https://drive.google.com/drive/folders/1ouL6yMUHCVBYIVZehE5XOwZoOumK7U0J?usp=sharing]) &nbsp;&nbsp;&nbsp;🔗 [LinkedIn](https://www.linkedin.com/in/[https://www.linkedin.com/in/samarth-trivedi-557442256/])
+📄 [Resume](https://drive.google.com/file/d/1DY_VcoBysJvJLuPw4MS-3CUaMk5MMMjM/view?usp=drive_link) &nbsp;&nbsp;&nbsp;🎓 [Certificates](https://drive.google.com/drive/folders/1ouL6yMUHCVBYIVZehE5XOwZoOumK7U0J?usp=sharing) &nbsp;&nbsp;&nbsp;🔗 [LinkedIn](https://www.linkedin.com/in/samarth-trivedi-557442256/)
 
 </div>
