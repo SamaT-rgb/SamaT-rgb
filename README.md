@@ -62,6 +62,6 @@ Interactive data visualization dashboard built with Streamlit & Plotly.
 
 <div align="center">
 
-📄 [Resume](https://drive.google.com/[YOUR_RESUME_LINK]) &nbsp;&nbsp;&nbsp;🎓 [Certificates](https://drive.google.com/[YOUR_CERTIFICATE_FOLDER_LINK]) &nbsp;&nbsp;&nbsp;🔗 [LinkedIn](https://www.linkedin.com/in/[YOUR_LINKEDIN_ID])
+📄 [Resume](https://drive.google.com/[https://drive.google.com/file/d/1DY_VcoBysJvJLuPw4MS-3CUaMk5MMMjM/view?usp=drive_link]) &nbsp;&nbsp;&nbsp;🎓 [Certificates](https://drive.google.com/[https://drive.google.com/drive/folders/1ouL6yMUHCVBYIVZehE5XOwZoOumK7U0J?usp=sharing]) &nbsp;&nbsp;&nbsp;🔗 [LinkedIn](https://www.linkedin.com/in/[https://www.linkedin.com/in/samarth-trivedi-557442256/])
 
 </div>
