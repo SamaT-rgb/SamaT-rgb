@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samarth Trivedi
+# 👋 Hi, I'm Samarth TrivedI
 
 > 🧠 Focused on Machine Learning · LLMs · Computer Vision · Data Science  
 > 📍 Building AI systems that actually work.
