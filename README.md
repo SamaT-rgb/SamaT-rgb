@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Samarth TrivedI
 
-> 🧠 Focused on Machine Learning · LLMs · Computer Vision · Data Science  
-> 📍 Building AI systems that actually work.
+> 🧠 ML | LLMs | Computer Vision | Data Science  
+> 📍  Engineering AI systems with practical impact and scalable performance.
 
 ---
 
