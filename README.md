@@ -1,7 +1,7 @@
 # 👋 Hi, Samarth TrivedI Here 
 
 > 🧠 ML | LLMs | Computer Vision | Data Science  
-> 📍  Engineering AI systems with practical impact and scalable performance.
+> 📍 Engineering AI systems with practical impact and scalable performance.
 
 ---
 
@@ -21,27 +21,35 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [MentorMind - AI Socratic Tutor](https://github.com/SamaT-rgb/-MentorMind---AI-Socratic-Tutor)
+### 🤖 [MentorMind - AI Socratic Tutor](https://github.com/SamaT-rgb/-MentorMind---AI-Socratic-Tutor)  
 Multi-persona AI tutor that uses LLMs to guide learning using Socratic questioning.  
 > 🔹 Custom personalities | Gemini / GPT | Prompt engineering | Dynamic tutor engine
 
 ---
 
-### 🧠 [NewsSage-AI](https://github.com/SamaT-rgb/NewsSage-AI)
+### 🧠 [NewsSage-AI](https://github.com/SamaT-rgb/NewsSage-AI)  
 AI tool that aggregates and summarizes YouTube videos, books, arXiv papers, and news — all in one place.  
 > 🔹 LLM + Streamlit UI | Search integration | Semantic content preview
 
 ---
 
-### 🧾 [AI-Powered PPT Generator](https://github.com/SamaT-rgb/AI-POWERED-PPT-GENERATOR-)
+### 🧾 [AI-Powered PPT Generator](https://github.com/SamaT-rgb/AI-POWERED-PPT-GENERATOR-)  
 Generate visually structured PowerPoint presentations automatically from user prompts or documents using LLMs.  
 > 🔹 LangChain | Streamlit | Gemini Pro | PDF/Text → Slides automation
 
 ---
 
-### 📊 [Olympics Data Analysis](https://github.com/SamaT-rgb/Olympics_Analysis)
+### 📊 [Olympics Data Analysis](https://github.com/SamaT-rgb/Olympics_Analysis)  
 Interactive data visualization dashboard built with Streamlit & Plotly.  
 > 🔹 Country-wise, Sport-wise, and Athlete-wise breakdowns with heatmaps
+
+---
+
+## 🏅 Achievements
+
+- 🥇 **Winner - TNQ Tech Hackathon 2025**  
+  Secured top position in TNQ Tech’s national hackathon focused on Generative AI solutions.  
+  👉 [View LinkedIn Post](https://www.linkedin.com/posts/samarth-trivedi-557442256_tnqtech-hackathon2025-generativeai-activity-7330669683257286658-mK7z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8RpJMBUyXXepPWH4Ln1rzf8o3xdJIVz_s)
 
 ---
 
