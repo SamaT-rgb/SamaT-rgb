@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 Core Skills & Tools
+## 🧠 Core Skills & Tools and more
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
