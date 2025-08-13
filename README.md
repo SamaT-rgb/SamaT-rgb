@@ -1,7 +1,7 @@
 # 👋 Hi, Samarth TrivedI Here 
 
 > 🧠 ML | LLMs | Computer Vision | Data Science  
-> 📍 Engineering AI systems with practical impact and scalable performance.
+> 📍 Engineering AI systems with practical impact and scalable performance
 
 ---
 
